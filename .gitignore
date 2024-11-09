@@ -77,3 +77,6 @@ $RECYCLE.BIN/
 
 # uploads
 uploads/
+
+# mac
+.DS_Store
