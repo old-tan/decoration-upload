@@ -6,6 +6,7 @@
   "dependencies": {
     "babel-eslint": "^6.0.4",
     "body-parser": "^1.15.1",
+    "cors": "^2.8.5",
     "dauria": "^1.1.4",
     "eslint": "^2.10.2",
     "feathers": "^2.0.1",
@@ -19,7 +20,6 @@
     "fs-blob-store": "^5.2.1",
     "multer": "^1.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
